@@ -38,6 +38,3 @@
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadyemil&layout=compact&&langs_count=8"/>
 </div>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
